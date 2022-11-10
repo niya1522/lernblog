@@ -1,7 +1,7 @@
 +++
 title = "Integration  ein Fremdwort für ehemalige Flüchtlingsfrauen?"
 date = "2022-10-24"
-draft = true
+draft = false
 pinned = true
 tags = ["Schule", "Reportage", "Friend"]
 image = "10_windlichter.jpg"
