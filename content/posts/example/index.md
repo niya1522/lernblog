@@ -3,12 +3,12 @@ title = "Integration  ein Fremdwort für ehemalige Flüchtlingsfrauen?"
 date = "2022-10-24"
 draft = false
 pinned = true
-tags = ["Schule", "Reportage", "Friend"]
-image = "10_windlichter.jpg"
+tags = ["Flüchtlinge", "Frauen", "Schule", "Reportage"]
+image = "1_-blick-auf-die-heimat-resize.jpeg"
 description = "In dieser Reportage.... "
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-![Windlicht](10_windlichter.jpg "Integration  ein Fremdwort für ehemalige Flüchtlingsfrauen?")
+![Windlicht]( "Integration  ein Fremdwort für ehemalige Flüchtlingsfrauen?")
 
 Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
 
@@ -28,7 +28,7 @@ Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden wil
 
 Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
 
-## Weitere 
+## Weitere
 
 Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
 
