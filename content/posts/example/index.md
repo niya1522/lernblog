@@ -1,45 +1,40 @@
 +++
-title = "Example Post"
+title = "Integration  ein Fremdwort für ehemalige Flüchtlingsfrauen?"
 date = "2022-10-24"
-draft = false
-pinned = false
-tags = ["Example", "Lernblog"]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+draft = true
+pinned = true
+tags = ["Schule", "Reportage", "Friend"]
+image = "10_windlichter.jpg"
+description = "In dieser Reportage.... "
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-
-{{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
-{{</lead>}}
+![Windlicht](10_windlichter.jpg "Integration  ein Fremdwort für ehemalige Flüchtlingsfrauen?")
 
 Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
 
-# Überschrift 1
+# UA
 
 So sieht die grösste Überschrift aus (H1).
 
-## Überschrift 2
+## IA
 
 Dies ist die Überschrift 2 (H2).
 
-### Überschrift 3
+### LALA
 
 Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
 
-#### Überschrift 4
+#### BIMBAB
 
 Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
 
-## Weitere Textformatierungen
+## Weitere 
 
 Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
 
-### Fett und Kursiv
+### Fet und Kursi
 
-Natürlich gibt es auch **fett** und _kursiv_.
-
-### Links
+Natürlich gibt es auch **fett** und *kursiv*.
 
 [So können Links angegeben werden](https://www.lernblog.org). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
 
@@ -47,18 +42,18 @@ Natürlich gibt es auch **fett** und _kursiv_.
 
 > «Zitate können hervorgehoben werden.»
 >
-> _Autor mit [Link zur Quelle](https://www.lernblog.org)_
+> *Autor mit [Link zur Quelle](https://www.lernblog.org)*
 
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
+Die Quellenangabe muss *kursiv* geschrieben werden, damit sie als Fusszeile erkannt wird.
 
 ### Liste
 
 So sieht eine Liste aus:
 
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
+* Nam de isto magna dissensio est.
+* Mihi, inquam, qui te id ipsum rogavi?
+* Haec et tu ita posuisti, et verba vestra sunt.
+* Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
 
 ### Nummerierte Liste
 
@@ -89,7 +84,7 @@ Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bilduntersch
 
 Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
 
----
+- - -
 
 ## Lead
 
@@ -97,8 +92,8 @@ Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem m
 Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
 {{</lead>}}
 
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
+`{{</*lead*/>}}`\
+Ein Lead steht zwischen zwei solchen Blöcken.\
 `{{</*/lead*/>}}`
 
 ## Kasten
@@ -107,13 +102,12 @@ Ein Lead steht zwischen zwei solchen Blöcken.
 In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
 {{</box>}}
 
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.   
+`{{</*box*/>}}`\
+Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.\
 `{{</*/box*/>}}`
 
 {{<box title="Ausklappbare Box">}}
 Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
 
 Dies eignet sich auch für längere Inhalte.
 
@@ -122,8 +116,8 @@ Dies eignet sich auch für längere Inhalte.
 Auch Bilder können in eine Box gepackt werden.
 {{</box>}}
 
-`{{</*box title="Ausklappbare Box"*/>}}`   
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.   
+`{{</*box title="Ausklappbare Box"*/>}}`\
+Wird ein Titel angegeben, so kann die Box ausgeklappt werden.\
 `{{</*/box*/>}}`
 
 ## Video, Audio und andere Medien einbetten
