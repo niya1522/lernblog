@@ -14,6 +14,8 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 
 Um fünf Uhr, steht auf dem Flyer, beginnt der Frauenabend. Organisiert wird dieser durch den Verein Mazay. Er unterstütz und begleitet Flüchtlinge bei ihrer Integration. Wir treffen früher bei der verabredeten Stelle, einem Café, ein und warten deshalb vor dem Eingang. Dort lernen wir Amira (Name geändert) kennen. Sie ist eine Afghanin, die aus ihrem Heimatland geflüchtet ist. Als wir mit ihr einige Worte austauschen, zeigt sich ihre offene und freundliche Persönlichkeit. Im Verlauf des Abends lernen wir sie noch näher kennen. Nicht viel Zeit ist verstrichen, als Edith, ein Mitglied des Vereins Mazay, sich zu uns Wartenden gesellt. Da sie den Schlüssel für das Café nicht hat, warten wir inzwischen zu viert. Währenddessen erzählt uns Edith, wie schade sie findet, dass oft nur über Flüchtlinge geredet wird, aber nicht mit ihnen. Der Verein Mazay beweist uns, es geht auch anders. 
 
+![An der Beundenfeldstrasse 13 unterhalten wir uns in einem vom Verein Mazay betriebenen Café mit geflüchteten Frauen. (Foto: Azziya Anwar)](11_standort.jpg)
+
 
 
 
