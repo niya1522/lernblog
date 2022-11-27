@@ -8,15 +8,13 @@ image = "1_-blick-auf-die-heimat-resize.jpeg"
 description = "In dieser Reportage.... "
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-*{{<lead>}}* In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sie such diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Frage auf den Grund gegangen. *{{</lead>}}*
+*{{<lead>}}* \
+In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sie such diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Frage auf den Grund gegangen. \
+*{{</lead>}}*
 
 Um fünf Uhr, steht auf dem Flyer, beginnt der Frauenabend. Organisiert wird dieser durch den Verein Mazay. Er unterstütz und begleitet Flüchtlinge bei ihrer Integration. Wir treffen früher bei der verabredeten Stelle, einem Café, ein und warten deshalb vor dem Eingang. Dort lernen wir Amira (Name geändert) kennen. Sie ist eine Afghanin, die aus ihrem Heimatland geflüchtet ist. Als wir mit ihr einige Worte austauschen, zeigt sich ihre offene und freundliche Persönlichkeit. Im Verlauf des Abends lernen wir sie noch näher kennen. Nicht viel Zeit ist verstrichen, als Edith, ein Mitglied des Vereins Mazay, sich zu uns Wartenden gesellt. Da sie den Schlüssel für das Café nicht hat, warten wir inzwischen zu viert. Währenddessen erzählt uns Edith, wie schade sie findet, dass oft nur über Flüchtlinge geredet wird, aber nicht mit ihnen. Der Verein Mazay beweist uns, es geht auch anders. 
 
 ![An der Beundenfeldstrasse 13 unterhalten wir uns in einem vom Verein Mazay betriebenen Café mit geflüchteten Frauen. (Foto: Azziya Anwar)](11_standort.jpg)
-
-
-
-
 
 # UA
 
