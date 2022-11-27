@@ -10,7 +10,7 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 +++
 {{<lead>}}\
 In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sie such diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Frage auf den Grund gegangen. \
-{{<lead>}}
+{{</lead>}}
 
 
 
