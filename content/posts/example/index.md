@@ -5,7 +5,7 @@ draft = false
 pinned = true
 tags = ["Flüchtlinge", "Integration", "Frauen", "Schule", "Reportage"]
 image = "1_-blick-auf-die-heimat-resize.jpeg"
-description = "In dieser Reportage.... "
+description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 {{<lead>}}\
