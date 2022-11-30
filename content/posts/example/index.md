@@ -1,5 +1,5 @@
 +++
-title = "Integration  ein Fremdwort für ehemalige Flüchtlingsfrauen?"
+title = "Integration - ein Fremdwort für ehemalige Flüchtlingsfrauen?"
 date = "2022-11-27"
 draft = false
 pinned = true
