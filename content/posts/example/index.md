@@ -1,6 +1,6 @@
 +++
 title = "Integration - ein Fremdwort für ehemalige Flüchtlingsfrauen?"
-date = "2022-11-27"
+date = "2022-12-01"
 draft = false
 pinned = true
 tags = ["Flüchtlinge", "Integration", "Frauen", "Schule", "Reportage"]
@@ -11,8 +11,6 @@ footnotes = ""
 {{<lead>}}\
 In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen\
 {{</lead>}}
-
-
 
 Um fünf Uhr, steht auf dem Flyer, beginnt der Frauenabend. Organisiert wird dieser durch den Verein Mazay. Er unterstützt und begleitet Flüchtlinge bei ihrer Integration. \
 \
@@ -36,7 +34,7 @@ Immer mehr Frauen treffen ein und nehmen an der aus Tischen und Stühlen geformt
 
 Edith, Pinar und eine weitere Frau, die Mitglied des Vereins Mazay ist, erläutern kurz das lockere Programm des Abends: Essen, Trinken, Verzieren von Windlichtern und Schwatzen. Kaum ist der Abend offiziell eröffnet, beginnen die einen Frauen Gespräche und die anderen machen sich eifrig ans Verzieren von Windlichtern. Währenddessen hängen wir, von einer familiären und freundschaftlichen Atmosphäre im Café umschlungen, an Amiras Lippen, die uns erzählt, wie schwierig soziale Integration einst für sie gewesen ist. Sie sagt, sie habe in der Vergangenheit mit vielen Problemen zu kämpfen gehabt und ihr habe niemand geholfen. Denn Kontakte zu knüpfen sei damals aufgrund von Sprachbarrieren noch nicht möglich gewesen. Es sei schwierig gewesen, nichts zu verstehen. Aber seit sie Teil des Vereins Mazay ist, sei vieles einfacher geworden. Der Verein habe ihr "wirklich sehr geholfen".
 
-![Amira hat Hürden überwunden. Sie integriert sich (Foto: Azziya Anwar)](7.1_mitglied-des-vereins-afghanerin-1-.jpg)
+![Amira hat Hürden überwunden. Sie integriert sich. (Foto: Azziya Anwar)](7.1_mitglied-des-vereins-afghanerin-1-.jpg)
 
 #### Hürden
 
@@ -60,7 +58,7 @@ Fast allen erwähnten Integrationshürden wirken Frauenangebote entgegen, an den
 
 Lara Heliotis arbeitet als Sozialarbeiterin des Schweizerischen Roten Kreuzes. Sie erklärt, Frauen legten Wert darauf, unter sich zu sein. Daher sprängen sie mehr auf Frauenangebote als auf Angebote an, an denen auch Männer anwesend sind. Nicht nur beseitigen Frauenangebote so Hürden, sondern sie erhöhen auch Teilnehmerbereitschaft von Frauen und fördern die Integration von geflüchteten Frauen.
 
-![Lara Heliotis ermutigt Frauen zur Teilnahme an Frauenangebote (Foto: Azziya Anwar)](12_interviewte-fachperseoon.jpg)
+![Lara Heliotis ermutigt Frauen zur Teilnahme an Frauenangebote. (Foto: Azziya Anwar)](12_interviewte-fachperseoon.jpg)
 
 Ein weiterer Vorteil, der sich durch das Offerieren von Angeboten nur für Frauen ergibt, ist die Möglichkeit zur rechtlichen Aufklärung von Frauen. Da Frauen in vielen Ländern grundlegende Menschenrechte verwehrt werden, wissen sie nicht, dass sie diese in der Schweiz besitzen. Zusätzlich können Frauen geschlechterspezifische Fragen, die das Frau-Sein betreffen, in den Angeboten nur für Frauen nennen. In gemischten Kursen trauen sich Frauen weniger, solche Fragen zu stellen. 
 
@@ -68,7 +66,7 @@ Ein weiterer Vorteil, der sich durch das Offerieren von Angeboten nur für Fraue
 
 Integration ist ein Weg und dass er erfolgreich beschritten werden kann, beweist Elenya. Als junges Mädchen ist sie in die Schweiz geflüchtet und inzwischen ist sie eine erwachsene Frau, die sich in der Schweizer Kultur "sehr wohl" fühlt.
 
-![Elenya überblickt ihre Heimat (Foto: Azziya Anwar)](1_-blick-auf-die-heimat-resize.jpeg)
+![Elenya überblickt ihre Heimat. (Foto: Azziya Anwar)](1_-blick-auf-die-heimat-resize.jpeg)
 
 Doch der Weg zur erfolgreichen Integration ist nicht einfach gewesen. "Bei meiner Integration habe ich mir eigentlich selbst geholfen. Es gab nie jemanden, der mir geholfen hat", sagt Elenya.
 
