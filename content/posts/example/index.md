@@ -12,6 +12,8 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sie sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Frage auf den Grund gegangen. \
 {{</lead>}}
 
+
+
 Um fünf Uhr, steht auf dem Flyer, beginnt der Frauenabend. Organisiert wird dieser durch den Verein Mazay. Er unterstütz und begleitet Flüchtlinge bei ihrer Integration. Wir treffen früher bei der verabredeten Stelle, einem Café, ein und warten deshalb vor dem Eingang. Dort lernen wir Amira (Name geändert) kennen. Sie ist eine Afghanin, die aus ihrem Heimatland geflüchtet ist. Als wir mit ihr einige Worte austauschen, zeigt sich ihre offene und freundliche Persönlichkeit. Im Verlauf des Abends lernen wir sie noch näher kennen. Nicht viel Zeit ist verstrichen, als Edith, ein Mitglied des Vereins Mazay, sich zu uns Wartenden gesellt. Da sie den Schlüssel für das Café nicht hat, warten wir inzwischen zu viert. Währenddessen erzählt uns Edith, wie schade sie findet, dass oft nur über Flüchtlinge geredet wird, aber nicht mit ihnen. Der Verein Mazay beweist uns, es geht auch anders. 
 
 ![An der Beundenfeldstrasse 13 unterhalten wir uns in einem vom Verein Mazay betriebenen Café mit geflüchteten Frauen. (Foto: Azziya Anwar)](11_standort.jpg)
@@ -39,8 +41,6 @@ Pinar gesellt sich zu uns. Wir unterhalten uns über Schwierigkeiten, die bei de
 > Wir alle hatten Vertrauensschwierigkeiten. Die Schweiz war ein neues Land mit einer neuen Kultur; wir verstanden die Menschen nicht.
 >
 > *Asia, ehemalige afghanische Flüchtlingsfrau*
-
-
 
 Asia ist als kleines Mädchen den Konflikten in Afghanistan entflohen und somit zu einem Flüchtlingsmädchen geworden. Inzwischen ist sie erwachsen und eine ehemalige Flüchtlingsfrau - ehemalig, da Flüchtlingsfrauen definitionsgemäss sich noch auf der Flucht befinden. Sie spricht für ihre Familie und sich selbst: "Wir alle hatten Vertrauensschwierigkeiten. Die Schweiz war ein neues Land mit einer neuen Kultur \[...]; wir verstanden die Menschen nicht." Sie beschreibt ein Problem vieler geflüchteten Frauen. Einerseits haben Frauen Schwierigkeiten damit, die Kultur der Schweizer zu verstehen und andererseits ist es schwierig, ihre eigenen kulturellen Gepflogenheiten dem Alltag in der Schweiz anzupassen. Schweizer und Schweizerinnen wirken durch ihre Förmlichkeit kalt und dies kann erschreckend für Frauen sein, die aus Kulturkreisen stammen, in denen offener miteinander umgegangen wird. In der Schweiz ist jeder Besuch anzukündigen und jeder Termin muss vorvereinbart werden. In anderen Ländern taucht man hingegen spontan für einen Kaffeeplausch auf und Termine werden gar nicht abgesprochen, man geht unangemeldet zum Arzt.
 
