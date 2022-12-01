@@ -6,7 +6,7 @@ pinned = true
 tags = ["Flüchtlinge", "Integration", "Frauen", "Schule", "Reportage"]
 image = "1_-blick-auf-die-heimat-resize.jpeg"
 description = ""
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+footnotes = ""
 +++
 {{<lead>}}\
 In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen\
