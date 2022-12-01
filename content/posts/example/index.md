@@ -15,7 +15,7 @@ In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich e
 Um fünf Uhr, steht auf dem Flyer, beginnt der Frauenabend. Organisiert wird dieser durch den Verein Mazay. Er unterstützt und begleitet Flüchtlinge bei ihrer Integration. 
 
 \
-{{<box>}}
+{{<box title="Ausklappbare Box">}}
 
 #### Der Verein Mazay 
 
@@ -91,7 +91,7 @@ Die Stimmung im Café ist heiter – hier und da hören wir ein Lachen. Wir sind
 
 Beim Reden gelangen wir zur Erkenntnis, dass die Mitglieder des Vereins Mazay ein Umfeld kreiert haben, das Integration von geflüchteten Frauen ermöglicht. Denn sie bringen Toleranz, Offenheit und Interesse zum Zuhören mit. Sie machen klar, es spielt für sie keine Rolle, woher die Frau stammt. Jede ist willkommen. Das wird auch durch die Tür widergespiegelt, die auch während des Abendanlasses offenbleibt und jede Frau dazu einlädt, sich zu integrieren.
 
-{{<box>}}
+{{<box title="Ausklappbare Box">}}
 **Anerkannte Flüchtlingsfrauen** \
 \
 Die Integrationsschwierigkeiten, die im vorliegenden Text erläutert wurden, beziehen sich auf anerkannte Flüchtlingsfrauen. Anerkannt bedeutet, dass die Flüchtlingsfrauen gemäss Genfer Flüchtlingskonvention als Flüchtlinge gelten. Ihr Asylgesuch wurde angenommen. Die Genfer Flüchtlingskonvention gewährt den Flüchtlingsstatus, wenn folgende Bedingungen erfüllt sind: Man hat den Heimatstaat verlassen und kann eine sachlich nachvollziehbare Begründung für eine Furcht vor Verfolgung in der Heimat nennen. Grund der Verfolgung ist ein individuelles Merkmal oder sind mehrere individuelle Merkmale - das Geschlecht gilt auch als Merkmal, weshalb Frauen als Grund der Flucht sexuellen Missbrauch nennen können. Ausserdem darf kein Ausschlussgrund vorliegen, wie z.B. Schutz durch eine andere Organisation der Vereinten Nationen als der UNHCR. Denn erhält eine auf der Flucht befindenden Person Schutz durch eine andere Organisation der Vereinten Nationen als der UNHCR, gilt sie als nicht hilfsbedürftig, da sie bereits beschützt wird. Ein weiterer Ausschlussgrund ist das Begehen eines Kriegsverbrechens. Eine Person, die ein Kriegsverbrechen begangen hat, stellt nämlich eine Gefahr für die Schweiz und ihre Bevölkerung dar.\
