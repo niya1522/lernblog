@@ -9,11 +9,10 @@ description = ""
 footnotes = ""
 +++
 {{<lead>}}\
-In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen\
+In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen.\
 {{</lead>}}
 
 Um fünf Uhr, steht auf dem Flyer, beginnt der Frauenabend. Organisiert wird dieser durch den Verein Mazay. Er unterstützt und begleitet Flüchtlinge bei ihrer Integration. \
-\
 {{<box title="Der Verein Mazay">}}\
 Der Verein Mazay hilft und begleitet Migranten bei ihrer Integration, indem er sie beratet zu persönlichen Anliegen und Alltagsbegleitungen anbietet. Der Verein unterstützt Frauen durch das Anbieten von Frauenabenden sowie Onlinebeiträgen, die Frauen über ihre Rechte informieren und sie auf Opferhilfestellen hinweisen. Ausserdem hilft er Frauen bei ihren persönlichen Problemen im Alltag aus durch die erwähnten Alltagsbegleitungen, indem den Frauen durch ihren Alltagsbegleiter oder ihre Alltagsbegleiterin unter anderem Sachverhalte bezüglich Versicherung oder Ausbildung ihrer Kinder in einfachem Deutsch erklärt wird. Durch das Anbieten von Erklärungen betreffend die Ausbildung ihrer Kinder, nimmt die Alltagsbegleitperson den Frauen die Sorge ab, sich nicht um die Bildung ihrer Kinder kümmern zu können.\
 {{</box>}}
