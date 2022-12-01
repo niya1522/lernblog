@@ -12,14 +12,12 @@ footnotes = ""
 In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen\
 {{</lead>}}
 
-Um fünf Uhr, steht auf dem Flyer, beginnt der Frauenabend. Organisiert wird dieser durch den Verein Mazay. Er unterstützt und begleitet Flüchtlinge bei ihrer Integration. 
-
+Um fünf Uhr, steht auf dem Flyer, beginnt der Frauenabend. Organisiert wird dieser durch den Verein Mazay. Er unterstützt und begleitet Flüchtlinge bei ihrer Integration. \
 \
 {{<box title="Der Verein Mazay">}}\
 Der Verein Mazay hilft und begleitet Migranten bei ihrer Integration, indem er sie beratet zu persönlichen Anliegen und Alltagsbegleitungen anbietet. Der Verein unterstützt Frauen durch das Anbieten von Frauenabenden sowie Onlinebeiträgen, die Frauen über ihre Rechte informieren und sie auf Opferhilfestellen hinweisen. Ausserdem hilft er Frauen bei ihren persönlichen Problemen im Alltag aus durch die erwähnten Alltagsbegleitungen, indem den Frauen durch ihren Alltagsbegleiter oder ihre Alltagsbegleiterin unter anderem Sachverhalte bezüglich Versicherung oder Ausbildung ihrer Kinder in einfachem Deutsch erklärt wird. Durch das Anbieten von Erklärungen betreffend die Ausbildung ihrer Kinder, nimmt die Alltagsbegleitperson den Frauen die Sorge ab, sich nicht um die Bildung ihrer Kinder kümmern zu können.\
 {{</box>}}
 
-\
 Wir treffen früher bei der verabredeten Stelle, einem Café, ein und warten deshalb vor dem Eingang. Dort lernen wir Amira (Name geändert) kennen. Sie ist eine Afghanin, die aus ihrem Heimatland geflüchtet ist. Sie besitzt eine Aufenthaltsbewilligung für die Schweiz und befindet daher sich nicht mehr auf der Flucht. Somit ist sie eine ehemalige Flüchtlingsfrau - ehemalig, da Flüchtlingsfrauen definitionsgemäss sich noch auf der Flucht befinden. Als wir mit ihr einige Worte austauschen, zeigt sich ihre offene und freundliche Persönlichkeit. Im Verlauf des Abends lernen wir sie noch näher kennen. Nicht viel Zeit ist verstrichen, als Edith, ein Mitglied des Vereins Mazay, sich zu uns Wartenden gesellt. Da sie den Schlüssel für das Café nicht hat, warten wir inzwischen zu viert. Währenddessen erzählt uns Edith, wie schade sie findet, dass oft nur über Flüchtlinge geredet wird, aber nicht mit ihnen. Der Verein Mazay beweist uns, es geht auch anders.
 
 ![An der Beundenfeldstrasse 13 unterhalten wir uns in einem vom Verein Mazay betriebenen Café mit geflüchteten Frauen. (Foto: Azziya Anwar)](11_standort.jpg)
@@ -30,13 +28,9 @@ Eine Weile später treten wir auch schon ins gemütlich eingerichtete Café ein.
 
 Immer mehr Frauen treffen ein und nehmen an der aus Tischen und Stühlen geformten Ellipse Platz. Wir entscheiden uns, ebenfalls Platz zu nehmen an der Tischrunde, während noch immer weitere Frauen sich zu diesem Treffen gesellen. Neben uns setzt sich eine Frau. Sie stellt sich uns als Derya (Name geändert) und als eine gebürtige Türkin vor. Wir kommen mit ihr ins Gespräch und stellen fest, man kann sich auch ohne perfekte Deutschkenntnisse sehr gut verstehen.
 
-
-
 > "Um meine Integration habe ich mich selbst gekümmert. Niemand hat mir geholfen." 
 >
 > *Elenya (Name geändert), ehemalige syrische Flüchtlingsfrau*
-
-
 
 Edith, Pinar und eine weitere Frau, die Mitglied des Vereins Mazay ist, erläutern kurz das lockere Programm des Abends: Essen, Trinken, Verzieren von Windlichtern und Schwatzen. Kaum ist der Abend offiziell eröffnet, beginnen die einen Frauen Gespräche und die anderen machen sich eifrig ans Verzieren von Windlichtern. Währenddessen hängen wir, von einer familiären und freundschaftlichen Atmosphäre im Café umschlungen, an Amiras Lippen, die uns erzählt, wie schwierig soziale Integration einst für sie gewesen ist. Sie sagt, sie habe in der Vergangenheit mit vielen Problemen zu kämpfen gehabt und ihr habe niemand geholfen. Denn Kontakte zu knüpfen sei damals aufgrund von Sprachbarrieren noch nicht möglich gewesen. Es sei schwierig gewesen, nichts zu verstehen. Aber seit sie Teil des Vereins Mazay ist, sei vieles einfacher geworden. Der Verein habe ihr "wirklich sehr geholfen".
 
@@ -47,8 +41,6 @@ Edith, Pinar und eine weitere Frau, die Mitglied des Vereins Mazay ist, erläute
 Nach Amiras Schilderungen ist uns klar, wie wichtig der Beitrag von Organisationen wie dem vom Verein Mazay zur Integration von geflüchteten Frauen ist. Gäbe es diese Frauenabende nicht, würden viele geflüchtete Frauen sich schlichtweg nicht integrieren können. Dies kann verschiedene Gründe haben. Wie Amira gibt es Frauen, die nicht gut Deutsch sprechen und ihnen fällt es daher schwer, aus eigener Hand ihr soziales Netzwerk auszubauen. So bekräftigt Tamara-Elizabeth Iskra, die Delegierte für Integration in der Stadt Biel, "die Sprache ist das Element, das zu allen anderen Bereichen Zugang schafft." Ebenfalls leidet die Integration von geflüchteten Frauen darunter, dass diese niemanden für die Betreuung ihrer Kinder haben.  Von diesem Kinderbetreuungsproblem sind Frauen deutlich mehr betroffen als Männer. Denn in den meisten Ländern, von denen geflüchtete Frauen stammen, liegen gesellschaftliche Strukturen vor, welche den Frauen die Aufgabe der Kinderbetreuung überträgt. Diese gesellschaftlichen Strukturen haben die meisten Flüchtlinge sich angeeignet, weshalb die Frauen bei Flüchtlingsfamilien die Kinderbetreuung zu übernehmen haben, während Männer sich darüber keine Gedanken zu machen brauchen. Amira hat Kinder und nur weil jemand auf ihr jüngstes Kind aufpasst, ist es ihr möglich, den Frauenabend überhaupt zu besuchen. Dieses Problem der Kinderbetreuung verdeutlicht auch, weshalb Frauen bevorzugter Frauenprogramme besuchen. Denn Frauen können sich mit ihrem Mann mit der Betreuung ihrer Kinder abwechseln, wenn ihre Kurse nicht parallel stattfinden. Eine Studie des SKMR – des Schweizerischen Kompetenzzentrums für Menschenrechte - belegt, "Sprachkurse werden wegen fehlender Kinderbetreuung häufiger von Männern besucht". In dieser Studie wird auch auf einen weiteren frauenintegrationshemmenden Faktor hingewiesen, so wird behauptet, Beschäftigungsangebote seien meist eher auf Männer ausgerichtet.
 
 Pinar gesellt sich zu uns. Wir unterhalten uns darüber, wie Trauma eine Integrationshürde darstellt. Sie erzählt uns, dass viele illegal in die Schweiz reisen und dabei verfolgt werden. Unter diesen vielen sind tausende Frauen, die auf ihrer Flucht Szenen sehen, die sich tief in ihr Gehirn einbrennen. Als wären diese traumatisierenden Erlebnisse nicht genug, erfahren Frauen während ihrer Flucht oftmals sexuelle Übergriffe. Vor dem Hintergrund all dieses Grauens sollen Frauen sich integrieren. Es ist selbsterklärend, dass ihnen Vertrauen zu Menschen fehlt und Angst vor erneuten Übergriffen sie zurückhaltend macht.
-
-
 
 > Wir alle hatten Vertrauensschwierigkeiten. Die Schweiz war ein neues Land mit einer neuen Kultur; wir verstanden die Menschen nicht.
 >
@@ -69,8 +61,6 @@ Lara Heliotis arbeitet als Sozialarbeiterin des Schweizerischen Roten Kreuzes. S
 ![Lara Heliotis ermutigt Frauen zur Teilnahme an Frauenangebote (Foto: Azziya Anwar)](12_interviewte-fachperseoon.jpg)
 
 Ein weiterer Vorteil, der sich durch das Offerieren von Angeboten nur für Frauen ergibt, ist die Möglichkeit zur rechtlichen Aufklärung von Frauen. Da Frauen in vielen Ländern grundlegende Menschenrechte verwehrt werden, wissen sie nicht, dass sie diese in der Schweiz besitzen. Zusätzlich können Frauen geschlechterspezifische Fragen, die das Frau-Sein betreffen, in den Angeboten nur für Frauen nennen. In gemischten Kursen trauen sich Frauen weniger, solche Fragen zu stellen. 
-
-
 
 #### Offene Tür
 
