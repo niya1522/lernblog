@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Integration"
-description = "Lernen, mit Schwierigkeiten umzugehen"
+title = "Azziya Anwar"
+description = ":)"
 footerLeft = ""
 footerRight = ""
 +++
