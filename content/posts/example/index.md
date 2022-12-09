@@ -9,7 +9,8 @@ description = ""
 footnotes = "Autorinnen: Azziya Anwar und Hamna Mohamed Nasaj"
 +++
 {{<lead>}}\
-In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen. *Eine Reportage von Azziya Anwar und Hamna Mohamed Nasaj*
+In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen. \
+*Eine Reportage von Azziya Anwar und Hamna Mohamed Nasaj*
 
 {{</lead>}}
 
